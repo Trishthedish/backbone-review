@@ -1,3 +1,5 @@
+import $ from 'jquery';
+
 $(document).ready(function() {
-  // Write your application code here
+  $('body').append('<h1>Hello Ada</h1>');
 });
